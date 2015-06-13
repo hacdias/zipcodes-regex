@@ -1,0 +1,25 @@
+{
+  "name": "zipcodes-regex",
+  "version": "1.0.0",
+  "description": "A list of regular expressions for zipcodes",
+  "main": "zipcodes-regex.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacdias/zipcodes-regex.git"
+  },
+  "keywords": [
+    "zipcodes",
+    "zip",
+    "codes",
+    "postalcodes",
+    "postal",
+    "json",
+    "list"
+  ],
+  "author": "Henrique Dias <hacdias@gmail.com> (http://henriquedias.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacdias/zipcodes-regex/issues"
+  },
+  "homepage": "https://github.com/hacdias/zipcodes-regex#readme"
+}
