@@ -1,6 +1,6 @@
 {
   "name": "zipcodes-regex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A list of regular expressions for zip codes",
   "main": "zipcodes-regex.json",
   "repository": {
